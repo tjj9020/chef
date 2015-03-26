@@ -1,0 +1,7 @@
+name             'my_apache'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures my_apache'
+long_description 'Installs/Configures my_apache'
+version          '0.1.0'
